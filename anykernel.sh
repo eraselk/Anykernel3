@@ -4,14 +4,14 @@
 ### AnyKernel setup
 # Global properties
 properties() { '
-kernel.string=GKI Kernel DUMMY1 DUMMY2
-do.devicecheck=0
+kernel.string=Gold Kernel DUMMY1 DUMMY2
+do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=
-device.name2=
+device.name1=gold
+device.name2=iron
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
